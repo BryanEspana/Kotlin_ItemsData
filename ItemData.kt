@@ -1,6 +1,4 @@
-import com.sun.jdi.IntegerType
-
-class ItemData (val originalValue: Any) {
+class ItemData(val originalValue: Any?) {
 
 
     //------------Funciones-----------
